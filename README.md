@@ -6,7 +6,7 @@
 ██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║
 ██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝
 ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝
-### David Harrison · Builder. Founder. Web3 Pioneer.
+### DAVID HARRISON · Builder. Founder. Web3 Pioneer.
 *Turning community trust into financial infrastructure — from Lagos to the world.*
 
 [![Twitter](https://img.shields.io/badge/@riscendprotocol-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riscendprotocol)
