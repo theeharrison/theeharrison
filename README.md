@@ -10,7 +10,7 @@
 *Turning community trust into financial infrastructure — from Lagos to the world.*
 
 [![Twitter](https://img.shields.io/badge/@riscendprotocol-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riscendprotocol)
-[![Email](https://img.shields.io/badge/davharry212@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:davharry212@gmail.com)
+[![Email](https://img.shields.io/badge/davharry212@gmail.com-EA4335?style=flat-square&logo=white&logoColor=white)](mailto:davharry212@gmail.com)
 [![Aptos](https://img.shields.io/badge/Aptos_Ecosystem-00C8FF?style=flat-square&logo=aptos&logoColor=white)](#)
 
 </div>
@@ -33,13 +33,13 @@ That's why I'm building Riscend Alliance Protocol.
 
 RAP is a hybrid crowdfunding and DeFi protocol providing instant liquidity for startups through "Wellness Pacts" — a model that combines:
 
-- 📊 % Revenue Share — automated on-chain distribution via RevShare.move
-- 🌱 Impact Points — non-transferable social benefit tokens for backers (food, health, micro-grants)
-- 🔗 Fiat-to-Crypto Bridge — NGN/USD → USDC/APT via Transak SDK
-- 🏗️ Built on Aptos — Move-native smart contracts for security and parallel execution
-- 🪙 $RISC Token — Aptos-native, with a migration path to the sovereign Ascend Blockchain
+- 📊 7% Equity / Revenue Share — Enforced programmatic allocation providing a flat 7% equity position to backers for all funded startups via RevShare.move
+- 🌱 Impact Points — Non-transferable social benefit tokens for backers powering physical community utility (food, health, micro-grants)
+- 🔗 Fiat-to-Crypto Bridge — Onboarding rails converting NGN/USD → USDC/APT via Transak SDK for seamless ecosystem access
+- 🏗️ Built on Aptos — Move-native smart contracts leveraging secure parallel execution for rapid settlement layers
+- 🪙 $RISC Coin — Native utility asset engineered for the sovereign Ascend Blockchain ecosystem (leveraging current Aptos modules for testnet staging)
 
-Status: MVP on Aptos Testnet · CAC Registered (Nigeria) · Actively seeking ecosystem grants
+Status: MVP on Aptos Testnet · CAC Registered (Nigeria) · Actively seeking ecosystem grants and processing automated settlement layers
 
 [![Repo](https://img.shields.io/badge/View_Protocol-000000?style=flat-square&logo=github&logoColor=white)](#)
 [![Aptos](https://img.shields.io/badge/Deployed_on_Aptos_Testnet-00C8FF?style=flat-square)](#)
@@ -82,14 +82,16 @@ Community Moderator · Coordinate News · Telegram
 ## 📌 What I'm Building Next
 
 - [ ] WellnessPact.move — core smart contract deployment on Aptos Testnet
-- [ ] Transak fiat-to-USDC bridge integration
+- [ ] Transak fiat-to-USDC bridge integration & automated API off-ramp infrastructure processing
 - [ ] RAP waitlist MVP — 100+ early backers pilot
-- [ ] $RISC token launch on Aptos Mainnet
-- [ ] Ascend Blockchain — long-term sovereign chain
+- [ ] $RISC native coin architectural design and utility model parameters
+- [ ] Ascend Blockchain — long-term sovereign chain powered by a custom Proof of Success consensus mechanism
 
 ---
 
-## 💬 Philosophy> *"The best financial systems are built by the people they serve — not handed down to them."*
+## 💬 Philosophy
+
+> *"The best financial systems are built by the people they serve — not handed down to them."*
 
 I build for the underserved. I build for Africa. I build for the world.
 
