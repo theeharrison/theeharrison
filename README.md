@@ -33,7 +33,7 @@ That's why I'm building Riscend Alliance Protocol.
 
 RAP is a hybrid crowdfunding and DeFi protocol providing instant liquidity for startups through "Wellness Pacts" — a model that combines:
 
-- 📊 19% Revenue Share — automated on-chain distribution via RevShare.move
+- 📊 % Revenue Share — automated on-chain distribution via RevShare.move
 - 🌱 Impact Points — non-transferable social benefit tokens for backers (food, health, micro-grants)
 - 🔗 Fiat-to-Crypto Bridge — NGN/USD → USDC/APT via Transak SDK
 - 🏗️ Built on Aptos — Move-native smart contracts for security and parallel execution
