@@ -1,17 +1,17 @@
 <div align="center">
 
-██████╗  █████╗ ██╗   ██╗██╗██████╗
-██╔══██╗██╔══██╗██║   ██║██║██╔══██╗
-██║  ██║███████║██║   ██║██║██║  ██║
-██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║
-██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝
-╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝
+██████╗  █████╗ ██╗   ██╗██╗██████╗
+██╔══██╗██╔══██╗██║   ██║██║██╔══██╗
+██║  ██║███████║██║   ██║██║██║  ██║
+██║  ██║██╔══██║╚██╗ ██╔╝██║██║  ██║
+██████╔╝██║  ██║ ╚████╔╝ ██║██████╔╝
+╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝
 ### DAVID HARRISON · Builder. Founder. Web3 Pioneer.
 *Turning community trust into financial infrastructure — from Lagos to the world.*
 
 [![Twitter](https://img.shields.io/badge/@riscendprotocol-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/riscendprotocol)
 [![Email](https://img.shields.io/badge/davharry212@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:davharry212@gmail.com)
-[![Ecosystem](https://img.shields.io/badge/Web3_Ecosystem-00C8FF?style=flat-square&logo=blockchain&logoColor=white)](#)
+[![Aptos](https://img.shields.io/badge/Aptos_Ecosystem-00C8FF?style=flat-square&logo=aptos&logoColor=white)](#)
 
 </div>
 
@@ -31,27 +31,27 @@ That's why I'm building Riscend Alliance Protocol.
 
 > *People-powered finance. No gatekeepers.*
 
-RAP is a hybrid crowdfunding and financial protocol designed to eliminate capital friction for early-stage startups while providing real-world utility to backers through programmatic "Wellness Pacts." The core architecture combines:
+RAP is a hybrid crowdfunding and DeFi protocol providing instant liquidity for startups through "Wellness Pacts" — a model that combines:
 
-- 📊 7% Equity Model — Automated on-chain compliance enforcing a flat 7% equity allocation to backers for all funded startups.
-- 🌱 Impact Points — Non-transferable social utility tokens powering the physical Wellness Pact ecosystem (community feeding programs, health checkups, and micro-enterprise grants).
-- 🔗 Automated Fiat Bridge — Embedded settlement infrastructure enabling frictionless fiat-to-stablecoin onboarding and instant local off-ramping.
-- 🏗️ High-Throughput Engineering — Move-native and modern fullstack architecture optimized for extreme transaction parallelism and cryptographic safety.
-- 🪙 $RISC Coin — Engineered as the sovereign native Layer-1 utility asset for the upcoming network ecosystem.
+- 📊 % Revenue Share — automated on-chain distribution via RevShare.move
+- 🌱 Impact Points — non-transferable social benefit tokens for backers (food, health, micro-grants)
+- 🔗 Fiat-to-Crypto Bridge — NGN/USD → USDC/APT via Transak SDK
+- 🏗️ Built on Aptos — Move-native smart contracts for security and parallel execution
+- 🪙 $RISC Token — Aptos-native, with a migration path to the sovereign Ascend Blockchain
 
-Status: MVP Live on Staging/Testnet · CAC Registered (Nigeria) · Actively securing ecosystem grants and processing pilot infrastructure.
+Status: MVP on Aptos Testnet · CAC Registered (Nigeria) · Actively seeking ecosystem grants
 
 [![Repo](https://img.shields.io/badge/View_Protocol-000000?style=flat-square&logo=github&logoColor=white)](#)
-[![Testnet](https://img.shields.io/badge/Status-Testnet_MVP_Live-10b981?style=flat-square)](#)
+[![Aptos](https://img.shields.io/badge/Deployed_on_Aptos_Testnet-00C8FF?style=flat-square)](#)
 
 ---
 
 ## 🛠️ Tech Stack
 
-Web3 & Core Protocol
+Web3
 
 ![Move](https://img.shields.io/badge/Move-00C8FF?style=flat-square&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Aptos](https://img.shields.io/badge/Aptos-0A0A0A?style=flat-square&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
@@ -72,26 +72,24 @@ Tools & Infra
 
 ---
 
-## 🌍 Community & Leadership
+## 🌍 Community Work
 
-Student Representative & Tech Lead
-> Coordinating regional developer initiatives and managing high-growth communication channels focused on emerging market tech, Web3 literacy, and sustainable, community-driven decentralized finance frameworks across Africa.
+Community Moderator · Coordinate News · Telegram
+> Coordinating a growing community channel focused on emerging market tech, Web3, and community-driven finance across Africa and beyond.
 
 ---
 
 ## 📌 What I'm Building Next
 
-- [ ] Complete core Move module testing and deployment validation on staging networks
-- [ ] Direct production integration of automated stablecoin-to-fiat API settlement layers
-- [ ] Scale the Riscend waitlist pilot program to support our first cohort of 100+ active backers
-- [ ] Finalize economic architecture modeling for the native $RISC Layer-1 coin
-- [ ] Launch the Ascend Blockchain — a sovereign Layer-1 framework powered by a custom **Proof of Success** consensus mechanism
+- [ ] WellnessPact.move — core smart contract deployment on Aptos Testnet
+- [ ] Transak fiat-to-USDC bridge integration
+- [ ] RAP waitlist MVP — 100+ early backers pilot
+- [ ] $RISC token launch on Aptos Mainnet
+- [ ] Ascend Blockchain — long-term sovereign chain
 
 ---
 
-## 💬 Philosophy
-
-> *"The best financial systems are built by the people they serve — not handed down to them."*
+## 💬 Philosophy> *"The best financial systems are built by the people they serve — not handed down to them."*
 
 I build for the underserved. I build for Africa. I build for the world.
 
